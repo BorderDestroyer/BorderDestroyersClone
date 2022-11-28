@@ -1,0 +1,5 @@
+discord.py[voice]==1.7.3
+tweepy
+google-api-python-client
+youtube_dl
+psycopg2
